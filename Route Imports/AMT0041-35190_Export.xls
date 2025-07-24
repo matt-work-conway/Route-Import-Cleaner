@@ -1,0 +1,209 @@
+<style> .text { mso-number-format:\@; } </style> <div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">OperationNumber</th><th scope="col">TaskNumber</th><th scope="col">WorkCenter</th><th scope="col">ERPTask</th><th scope="col">CountPoint</th><th scope="col">Backflush</th><th scope="col">AverageSetupTime</th><th scope="col">ManOccSetup</th><th scope="col">CycleTime</th><th scope="col">ManOccProd</th><th scope="col">MachineOcc</th><th scope="col">FixedDuration</th><th scope="col">TransferLotAll</th><th scope="col">TransferLotQuantity</th><th scope="col">QueueTime</th><th scope="col">WaitTime</th><th scope="col">MoveTime</th><th scope="col">SubcontractNotes</th><th scope="col">SubcontractRate</th><th scope="col">Labels</th><th scope="col">Tooling</th><th scope="col">Materials</th><th scope="col">Programs</th><th scope="col">SpecialInstructions</th><th scope="col">StepOrder</th><th scope="col">Station</th><th scope="col">StepType</th><th scope="col">LinkStation</th><th scope="col">LabelStation</th><th scope="col">AuditLinkStation</th><th scope="col">OverrideAuditStation</th><th scope="col">AuditStation</th><th scope="col">AuditQuantity</th>
+		</tr><tr>
+			<td class="text">5</td><td class="text">A002</td><td class="text">BGA000</td><td class="text">Y</td><td class="text">Y</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RELEASE MATERIAL, ISSUE PO FOR OSP &amp;amp; YELLOW TICKET FOR OSP GRIND
+
+ISSUE S/N
+
+DRAWINGS REQUIRED:  CUSTOMER DRAWING 0041-35190 REV 04
+
+PROCESS PRINTS:  Q006039A,  107148 REV 3,  Q006357 REV D,  Q006370 REV E,  
+Q007526 REV B
+
+
+ROUTER REVISIONS:  SS3/5/14 MOVED HYDRO FROM 250 TO 237
+
+SS 4/14/14 ADDED CALLOUT FOR INSTALLING SPECIFIC SIZE HELICOILS TO OP240
+
+SS 5/8/14 UPDATED ROUTER TO MATCH DETAILS FROM ORIGINAL CONCORD ROUTER
+
+SS 12/16/14 UPDATED FROM C3023 TO C3035  FOR OPS 190
+
+SS 4/6/15 OP 45 &amp;amp; 57 REMOVED &amp;quot;***PRINT CMM REPORT AND PLACE IT IN THE ROUTER 
+PACKET.***&amp;quot;
+
+KM 3/30/2016 Q006357 upreved from rev C to D
+
+SS 11/26/18 CHANGED THERMO OSP  FROM 190 TO 360
+
+SM 822537 04/07/20 UPDATE OP80 TEXT INFO IN ACCORDANCE W/ CCW-63001 PER RCR 
+169557.
+
+DH 10/28/20 Updated OSP Pricing -ThermoFusion
+
+AJ 3/5/21 Update per RCR195603 bring pre-weld cleaning in house.
+
+AJ 5/27/21 ADDED NOTE FOR FRAMONT TO LEAVE .005 MATERIAL TO EACH SIDE OF PART 
+OVERALL THICKNESS TO BE 2.250 +/- .003. ADDED OP190 TO FIX DATUM FLATNESS AND 
+PARALLELISM AT CONCORD HURCO
+
+AJ 8/20/21 EXPIRED OP225 PROTO, NO LONGER REQUIRED 
+
+DL 9/30/21 Scientific cost increae $210.00 &amp;gt; $285.00
+
+CJ 1/4/22 Added process print and PDS for OP 190
+
+DH 1/9/24 Setup -M70 Fremont Subcontract Router
+
+IP 01/10/24 Updated PFS and BAAN Routers per RCR416954</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">6</td><td class="text">A105</td><td class="text">BGA000</td><td class="text">Y</td><td class="text">Y</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">6</td><td class="text">GEN_SER</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">7</td><td class="text">A002</td><td class="text">CGA003</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">SHIP RAW MATERIAL TO OSP GRIND.</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">10</td><td class="text">H900</td><td class="text">SZH026</td><td class="text">Y</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">17568</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">GRIND STOCK THICKNESS FROM 2.50 TO 2.340&#177;.005 FLAT AND PARALLEL TO .005 PER 
+DWG Q006039A
+
+INCLUDE C OF C</td><td class="text">390</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">10</td><td class="text">SUBCONTRACT_05</td><td class="text">MAY_VISIT</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">15</td><td class="text">A011</td><td class="text">CGA001</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">5</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RECIEVE GROUND PART FROM OSP GRIND</td><td class="text">15</td><td class="text">RECEIVE_05</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">25</td><td class="text">A013</td><td class="text">CGA002</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">5</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">SHIP PART TO FREMONT</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">30</td><td class="text">H904</td><td class="text">SZH002</td><td class="text">Y</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">7200</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">1</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">INSPECT THICKNESS 2.34O&quot; +/-.005 FLAT AND PARALLEL TO .005 PER Q006039A</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">50</td><td class="text">A011</td><td class="text">CGA001</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RECEIVE - RECEIVE PART FROM FREMONT - PUSH TO DETAIL</td><td class="text">50</td><td class="text">RECEIVE_10</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">55</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PDS-DETL-02758 - DEBURR AND BREAK ALL SHARP EDGES. LOAD PART USING CRANE - 
+IDEALLY LOAD PART INTO CRATE, PARTS MAY BE INDIVIDUALLY PALETIZED IF NECESSARY
+
+PACKAGING INCLUDING FOLLOWING PARTS: 
+0041-35190,  0041-35190-2,  0041-35190-3,  0041-35190-9
+
+MOVE TO INSPECTION</td><td class="text">55</td><td class="text">DETAILING_10</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">57</td><td class="text">K001</td><td class="text">BAK005</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">1</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">VISUALLY INSPECT PART BEFORE SENDING TO CLEAN. 
+
+MOVE TO EB CLEAN LINE</td><td class="text">57</td><td class="text">INPROCESS_INSP_15</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">63</td><td class="text">A002</td><td class="text">BGA000</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PLANNER TO INTIATE MATERIAL,  
+STOCK ROOM TO GENERATE PICK LIST AND DELIVER MATERIAL TO EB WELD TYPE 1 CLEAN 
+LINE, 
+BUILDING 2
+
+0041-35190-2 QTY 1 PER, 0041-35190-3 QTY 1 PER, 0041-35190-9 QTY 1 PER</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">73</td><td class="text">I005</td><td class="text">BAE101</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">45</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">CLEAN ALL PARTS BODY, COVERS, AND LIP. 0041-35190, 0041-35190-2 QTY 1 , 
+0041-35190-3 QTY 1 PER, 0041-35190-9 QTY 1 
+FOR E-BEAM WELD</td><td class="text">73</td><td class="text">WELDING_05</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">75</td><td class="text">I005</td><td class="text">BCI300</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">48</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">ASSEMBLE COVERS AND LIP PER DWG Q006357D &amp; TACK WELD</td><td class="text">75</td><td class="text">WELDING_10</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">80</td><td class="text">I005</td><td class="text">BCI401</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">30</td><td class="text">1</td><td class="text">180</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">SETUP/RUN SAMPLE PER PDS-2839 &amp; AMS 2681
+E.B. WELD PER DWG Q006357D
+
+WELD OPERATOR TO FILL-OUT THE FOLLOWING INFORMATION IN ACCORDANCE W/ CCW-63001:
+
+MACHINE S/N:_________          DOP:_____________________
+
+WPS:_________________     OPERATOR:_____________________</td><td class="text">80</td><td class="text">WELDING_15</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">85</td><td class="text">I005</td><td class="text">BCI300</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">45</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">TIG FILL CHAMFER ON BACK SIDE OF LIP AFTER E.B. WELD PER Q006357D</td><td class="text">85</td><td class="text">WELDING_20</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">90</td><td class="text">G001</td><td class="text">BCG003</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">LEAK TEST - PUMP THROUGH PORTS &amp; LEAK TEST COVERS TO 1 X 10-9 CC/SE He
+
+PDS-DETL-02758 - LOAD PART USING CRANE - IDEALLY LOAD PART INTO CRATE, PARTS MAY
+BE INDIVIDUALLY PALETIZED IF NECESSARY</td><td class="text">90</td><td class="text">SUB_ASM_05</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">100</td><td class="text">A013</td><td class="text">CGA002</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">6</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">SHIP TO OSP ANNEAL - THERMO-FUSION</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">110</td><td class="text">H902</td><td class="text">SZH208</td><td class="text">Y</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">4320</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">SOLUTION ANNEAL 316L SST. INCLUDE C OF C.</td><td class="text">604</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">110</td><td class="text">SUBCONTRACT_10</td><td class="text">MAY_VISIT</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">120</td><td class="text">A011</td><td class="text">CGA001</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">6</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RECEIVE PART FROM OSP</td><td class="text">120</td><td class="text">RECEIVE_15</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">122</td><td class="text">A013</td><td class="text">CGA002</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">125</td><td class="text">H905</td><td class="text">SZH002</td><td class="text">Y</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">7200</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">1</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">165</td><td class="text">A011</td><td class="text">CGA001</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RECEIVE - RECEIVE PART FROM FREMONT</td><td class="text">165</td><td class="text">RECEIVE_25</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">190</td><td class="text">I004</td><td class="text">BKI060</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">60</td><td class="text">1</td><td class="text">120</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">32</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RUN PART BER DRAWING BEI0050750
+
+REFER TO FIRST PART OF PDS BEI0050034 PDS
+
+1) CHECK OVERALL THICKNESS WITH CALIPERS. SHOULD MEASURE 2.250 +/-.005
+
+2) PLACE JACKS IN WINDOWS FINGER TIGHT FOR REINFORCEMENT BEFOR MACHING  
+
+3) MACHINE DATUM &amp;quot;A&amp;quot; FLAT WITHIN .005 IF NEEDED
+
+4) VIEW ENGRAVINGS AND VERIFY THAT THEY ARE PRESENT - IF THE MACHINING HAS REMOVED THE ENGRAVINGS - RUN PROGRAM BEI0054476-10-1M TO ENGRAVE AFTER FACING PART FLAT
+&amp;#160;&amp;#160;&amp;#160;REFERENCE DRAWING BEI0054476</td><td class="text">190</td><td class="text">CNC_MILL_25</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">197</td><td class="text">K001</td><td class="text">BAK005</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">20</td><td class="text">1</td><td class="text">1</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PRIOR TO SENDING PART INTO PRODUCTION FOR LATHE OP
+
+INSP PER PQR DIMS CUSTOMER DRAWING 
+(NOT .173+/-.001, .198+/-.002, .172+/-.001, 23.800+.003-.000)
+
+VERIFY MEETS REQUIREMENTS, IF NOT CONTACT ENGINEER</td><td class="text">197</td><td class="text">INPROCESS_INSP_40</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">200</td><td class="text">I002</td><td class="text">BKI118</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">32</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">VTL - Load part flange side down - INSTALL PLUGS # T04870  LATHE OP 1 PER DWG 
+Q007526A - First side O-ring groove</td><td class="text">200</td><td class="text">CNC_LATHE_05</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">220</td><td class="text">I002</td><td class="text">BKI118</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">150</td><td class="text">1</td><td class="text">210</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">32</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">VTL - Load part flange side up - INSTALL PLUGS # T04870  LATHE OP 2 PER DWG 
+Q007526 REV B - Second side O-ring groove &amp; Bore
+
+LEAVE JACKS IN THE PART. THEY ARE NEEDED AT THE FOLLOWING MILL OP.</td><td class="text">220</td><td class="text">CNC_LATHE_10</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">221</td><td class="text">I004</td><td class="text">BJI034</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">1</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RUN PART PER BEI0050751
+
+REFER TO SECOND PART OF PDS BEI0050034</td><td class="text">221</td><td class="text">CNC_MILL_100</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">222</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">DEBURR PART</td><td class="text">222</td><td class="text">DETAILING_20</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">230</td><td class="text">K001</td><td class="text">BAK005</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">1</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PDS-QC-02765 - VERIFY PER DWG Q007526B - First and Second side O-ring groove &amp; 
+Bore.
+VERIFY PER DRAWING Q006370 - 4X 45 DEGREE X 2.10 PER PAGE 1 AREA B6.
+
+COMPLETE FIR AND COC.</td><td class="text">230</td><td class="text">INPROCESS_INSP_45</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">237</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">45</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PERFORM HYRDO-TEST AT 90 PSI FOR 10 MINUTES USING TOOL # T04771</td><td class="text">237</td><td class="text">DETAILING_25</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">240</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">840</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PDS-DETL-02810  DETAILING OPERATIONS &amp; GRAINING - graining tool # T04775 - CLEAN
+OUT THREADED HOLES AND INSTALL ALL HELI-COILS.  RADIUS INSIDE WINDOWS &amp; SLOTS, 
+0.10&quot;
+
+AMT1185-6EN5623    3/8-16 x .562L 28 EACH INSTALLED_______
+
+AMT1191-3EN-0285   10-32 x .285L  19 EACH INSTALLED_______
+
+AMT1185-4EN500    1/4-20 x .500    4 EACH INSTALLED______
+_
+BEI1185-4EN375    1/4-20 x .375    6 EACH INSTALLED_______
+
+BEI1185-2EN246    8-32 x .246L    12 EACH INSTALLED_______
+
+AMT1185-2EN164   8-32 x .164L     12 EACH INSTALLED_______
+
+AMT3591-3EN285    1-32 x .285L    12 EACH INSTALLED_______</td><td class="text">240</td><td class="text">DETAILING_30</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">250</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PULL PLUGS FROM WATER CHANNELS, LEAK TEST COVER WELDS TO 1X10-9 CC/SEC He
+Forward the plugs back to Engineering!</td><td class="text">250</td><td class="text">DETAILING_35</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">260</td><td class="text">I021</td><td class="text">BAI707</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">PDS-DETL-02758 - LOAD PART USING CRANE - FINISHED PART MUST BE WRAPPED &amp; LOADED INTO PADDED CRATE</td><td class="text">260</td><td class="text">DETAILING_40</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">270</td><td class="text">K001</td><td class="text">BAK005</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">1</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">16</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">QA RELEASE FOR E-POLISH</td><td class="text">270</td><td class="text">INPROCESS_INSP_50</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">280</td><td class="text">A013</td><td class="text">CGA002</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">7.2</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">HANDLE WITH CARE - THIS PART IS FINISH MACHINED AND DETAILED.  IT MUST BE IN A PADDED CRATE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td>
+		</tr><tr>
+			<td class="text">290</td><td class="text">H903</td><td class="text">SZH170</td><td class="text">Y</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">4608</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">0</td><td class="text">DOUBLE CLEAN PART BEFORE E-POLISH THE PART MAKE SURE TO CLEAN IT, THIS IS TO 
+PREVENT ANY STAINS THAT MAY APPEAR AFTER.</td><td class="text">285</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">290</td><td class="text">SUBCONTRACT_15</td><td class="text">MAY_VISIT</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">300</td><td class="text">A011</td><td class="text">CGA001</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">15</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">RECV. FORWARD TO CLEANROOM</td><td class="text">300</td><td class="text">RECEIVE_30</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">310</td><td class="text">G001</td><td class="text">ANG000</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">FINAL INSPECTION / DETAILING OF SEALING SURFACES (if necessary).  
+INSTALLATION OF DOWEL PIN, SST Dowel, 1/4&quot; x 1/2&quot; long.
+DOWEL PIN GUIDE TOOL # T04774
+
+Installed Height of dowel pin reduced to 0.30&quot;
+
+***CHECK ALL HELICOILS WITH FASTERNERS***</td><td class="text">310</td><td class="text">SUB_ASM_10</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">320</td><td class="text">G001</td><td class="text">ANG000</td><td class="text">Y</td><td class="text">N</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">30</td><td class="text">1</td><td class="text">0</td><td class="text">N</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">1</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">FINAL PACKAGING IN PADDED CRATE</td><td class="text">320</td><td class="text">SUB_ASM_15</td><td class="text">MUST_PASS_ONCE</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr><tr>
+			<td class="text">330</td><td class="text">A012</td><td class="text">CGA002</td><td class="text">Y</td><td class="text">Y</td><td class="text">Y</td><td class="text">0</td><td class="text">0</td><td class="text">6</td><td class="text">1</td><td class="text">0</td><td class="text">Y</td><td class="text">N</td><td class="text">0</td><td class="text">0</td><td class="text">8</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">0</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">SHIPPING OPERATION</td><td class="text">330</td><td class="text">STOCK</td><td class="text">MUST_PASS</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">&nbsp;</td><td class="text">0</td>
+		</tr>
+	</table>
+</div>
