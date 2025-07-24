@@ -28,7 +28,7 @@ main_path = os.path.dirname(__file__)
 
 #file_path = os.path.join(main_path, 'Indented BOM')
 
-file_path = os.path.join(main_path, 'Route Imports For - NVS72-260225-00')
+file_path = os.path.join(main_path, 'Route Imports')
 
 #file_path = 'P:\\Conway\\chrome_crawler\\PFS_ROUTER_IMPORTS'
 
@@ -38,28 +38,6 @@ def parse_folder(file_path):
         paths.append(entry)
 
     return paths
-
-
-'''
-def check_characters_in_dataframe(df):
-    """
-    Iterates over a Pandas DataFrame, checking each character in string entries.
-
-    Args:
-        df (pd.DataFrame): The input DataFrame.
-
-    Returns:
-        None: Prints the results of the character checks.
-    """
-    for column in df.columns:
-        if df[column].dtype == 'object':  # Check if the column contains strings
-            for index, value in df[column].items():
-                if isinstance('value', str):
-                    print(f"Column: {column}, Index: {index}, Value: {value}")
-                    for char in value:
-                        print(f"  Character: {char}")
-'''
-
 
 def excel_to_csv(excel_filepath, csv_filepath):
     """
